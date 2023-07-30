@@ -1,0 +1,6 @@
+train: ..\dataImg\images\train
+val: ..\dataImg\images\val
+test: ..\dataImg\images\test
+
+nc: 3
+names: ["Stamp", "DLSignature", "QRcode"]
