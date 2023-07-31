@@ -18,7 +18,7 @@ Folder ini berisi kodingan keempat jenis dokumen yang dipakai pada skripsi ini, 
 - [4] Buku Kas Umum
 
 [Model deteksi](https://github.com/runisaf/MODEL-VALIDASI-DOKUMEN/tree/main/Model_deteksi)  
-Folder ini berisi dataset gambar dan hasil training menggunakan algoritma YOLOv5
+Folder ini berisi kode training menggunakan algoritma YOLOv5, dataset dan weights hasil proses training dapat di lihat [di sini](https://drive.google.com/drive/folders/1mimhqxZ1zmlCw3Y00mRYj-5RefZP5yvc?usp=sharing)
 
 ### Author
 
