@@ -19,7 +19,3 @@ Folder ini berisi kodingan keempat jenis dokumen yang dipakai pada skripsi ini, 
 
 [Model deteksi](https://github.com/runisaf/MODEL-VALIDASI-DOKUMEN/tree/main/Model_deteksi)  
 Folder ini berisi kode training menggunakan algoritma YOLOv5, dataset dan weights hasil proses training dapat di lihat [di sini](https://drive.google.com/drive/folders/1mimhqxZ1zmlCw3Y00mRYj-5RefZP5yvc?usp=sharing)
-
-### Author
-
-Choirunnisa Jati Safitri (2221910766)
